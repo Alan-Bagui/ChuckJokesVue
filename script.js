@@ -15,23 +15,23 @@ new Vue({
   data: {
     chuck: [
       {
-        icon_url: "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        icon_url: "ChuckNorris.jpg",
         value: "Chuck Norris can skydive into outer space."
       },
       {
-        icon_url: "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        icon_url: "ChuckNorris.jpg",
         value: "The chief export of Chuck Norris is pain."
       },
       {
-        icon_url: "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        icon_url: "ChuckNorris.jpg",
         value: "Chuck Norris doesn't read books. He stares them down until he gets the information he wants."
       },
       {
-        icon_url: "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        icon_url: "ChuckNorris.jpg",
         value: "Time waits for no man. Unless that man is Chuck Norris."
       },
       {
-        icon_url: "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        icon_url: "ChuckNorris.jpg",
         value: "If you spell Chuck Norris in Scrabble, you win. Forever."
       },
     ]
